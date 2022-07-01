@@ -1,3 +1,12 @@
 body{
     font-family: sans-serif;
 }
+
+.hidden{
+    display: none;
+}
+
+#char-img{
+    width: 350px;
+    height: 350px;
+}
